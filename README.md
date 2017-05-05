@@ -1,5 +1,7 @@
 # react-chart.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/react-chart.js.svg)](https://greenkeeper.io/)
+
 [chart.js](https://github.com/chartjs/Chart.js) wrapper component for react
 
 ## Install
