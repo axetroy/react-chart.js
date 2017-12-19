@@ -1,6 +1,6 @@
 {
   "name": "@axetroy/react-chart.js",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "chart.js wrapper component for react",
   "main": "index.js",
   "scripts": {
